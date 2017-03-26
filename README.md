@@ -3,5 +3,9 @@
 
 Guide to setup the following software on local machine instead of using a virtualbox.
 
+<<<<<<< Updated upstream
 Hadoop
 MySQL
+=======
+Test line 1. Integrate with eclipse.
+>>>>>>> Stashed changes
