@@ -18,12 +18,12 @@ activate the created virtualenv py3
 * . ./activate
 
 To get a list of Python modules installed.
-	pip freeze
+* pip freeze
 
 To Install django specific version
-	pip install django==1.8.13
+* pip install django==1.8.13
 
 To update django to latest version
-	pip install django —upgrade
+* pip install django —upgrade
 
 
