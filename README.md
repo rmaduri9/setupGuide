@@ -14,8 +14,8 @@ In Mac OSX Python can be found (which python)
 
 activate the created virtualenv py3
 
-** cd py3/bin
-** . ./activate
+* cd py3/bin
+* . ./activate
 
 To get a list of Python modules installed.
 	pip freeze
